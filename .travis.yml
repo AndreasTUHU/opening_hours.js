@@ -5,7 +5,7 @@ sudo: false
 language: 'node_js'
 
 ## There is a big diff in the test log on Travis CI, disabling testing for now.
-## https://travis-ci.org/ypid/opening_hours.js/jobs/85907522
+## https://travis-ci.org/opening-hours/opening_hours.js/jobs/85907522
 
 node_js:
   ## Fails to install some dependencies.
